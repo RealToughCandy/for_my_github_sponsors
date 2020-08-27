@@ -15,6 +15,6 @@ However, some of my tiers do include a physical or digital reward that requires 
 
 **If you are on a sponsorship tier with rewards that requires a shipping address/email address and would like to claim your goodies:** Please send me an email at realtoughcandy at gmail dot com. Let me know you're my GitHub sponsor and we will get everything in gear! 
 
-Code on and prosper!
+Code on and prosper,
 
 RTC
